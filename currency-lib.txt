@@ -1,0 +1,3 @@
+rupee rupees R
+dollar dollars $
+euro euros E
